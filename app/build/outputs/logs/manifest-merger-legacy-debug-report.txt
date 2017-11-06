@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:4:5-60
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:4:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:5:19-67
+uses-feature#0x00020000
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:6:5-8:35
+	android:glEsVersion
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:7:9-41
+	android:required
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:8:9-32
+uses-permission#android.permission.CAMERA
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:10:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:17:22-65
+application
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:20:5-42:19
+MERGED from [pub.devrel:easypermissions:0.3.0] /home/sm/.android/build-cache/00c3e1a5b3076cb7dee03c5264fd426b0b3be841/output/AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/sm/.android/build-cache/1a31d1e722c33ef11db4321cb4bf05f9a63c0f79/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/sm/.android/build-cache/b77164defc6193728bd27ba85f100d5e94e39bc1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/sm/.android/build-cache/4bb378cca354fc827e8c74da926c489000658fcc/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/sm/.android/build-cache/e7fda4f0659fd2de23ac851fbdefaafdb7fef05b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/sm/.android/build-cache/c410813bf0c57b56776e24ef2223229594d372cc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/sm/.android/build-cache/60680d7ec0206e91d0a48df0205c56fa49059719/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/sm/.android/build-cache/83eb8ac4404a67d18a54253c78df02b8edb0ac8d/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/sm/.android/build-cache/b1253ec0789c73a9b74438f961060111ff030423/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/sm/.android/build-cache/1e1c1f9b9bad88b7c4c5f84e24e08d56972bcd41/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:24:9-35
+	android:allowBackup
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:22:9-43
+	android:theme
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:25:9-40
+activity#com.myhexaville.androidwebrtc.main.MainActivity
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:label
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:29:13-45
+	android:windowSoftInputMode
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:28:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.myhexaville.androidwebrtc.call.CallActivity
+ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:36:9-41:51
+	android:screenOrientation
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:41:13-49
+	android:label
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:39:13-45
+	android:configChanges
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:38:13-59
+	android:theme
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml:37:13-46
+uses-sdk
+INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/sm/.android/build-cache/6ca024a5f0cbf74b069ff45cfa3ee8ff91cfb134/output/AndroidManifest.xml:19:5-43
+MERGED from [pub.devrel:easypermissions:0.3.0] /home/sm/.android/build-cache/00c3e1a5b3076cb7dee03c5264fd426b0b3be841/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/sm/.android/build-cache/1a31d1e722c33ef11db4321cb4bf05f9a63c0f79/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/sm/.android/build-cache/b77164defc6193728bd27ba85f100d5e94e39bc1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/sm/.android/build-cache/4bb378cca354fc827e8c74da926c489000658fcc/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.databinding:adapters:1.3.1] /home/sm/.android/build-cache/5540f690560a8d139c940c16dd12401c33f53cff/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.databinding:library:1.3.1] /home/sm/.android/build-cache/1f4c5e6ed2319249af430e329f4a5c064810c028/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:25.2.0] /home/sm/.android/build-cache/e7fda4f0659fd2de23ac851fbdefaafdb7fef05b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/sm/.android/build-cache/c410813bf0c57b56776e24ef2223229594d372cc/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/sm/.android/build-cache/60680d7ec0206e91d0a48df0205c56fa49059719/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/sm/.android/build-cache/83eb8ac4404a67d18a54253c78df02b8edb0ac8d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/sm/.android/build-cache/b1253ec0789c73a9b74438f961060111ff030423/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/sm/.android/build-cache/1e1c1f9b9bad88b7c4c5f84e24e08d56972bcd41/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /home/sm/.android/build-cache/1a31d1e722c33ef11db4321cb4bf05f9a63c0f79/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/src/main/AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:0.3.0] /home/sm/.android/build-cache/00c3e1a5b3076cb7dee03c5264fd426b0b3be841/output/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:0.3.0] /home/sm/.android/build-cache/00c3e1a5b3076cb7dee03c5264fd426b0b3be841/output/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:0.3.0] /home/sm/.android/build-cache/00c3e1a5b3076cb7dee03c5264fd426b0b3be841/output/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:0.3.0] /home/sm/.android/build-cache/00c3e1a5b3076cb7dee03c5264fd426b0b3be841/output/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:0.3.0] /home/sm/.android/build-cache/00c3e1a5b3076cb7dee03c5264fd426b0b3be841/output/AndroidManifest.xml:13:13-86

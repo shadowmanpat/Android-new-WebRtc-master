@@ -1,0 +1,7 @@
+#Thu Oct 05 11:33:59 EEST 2017
+base.0=/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_17a400667de7e6b392dc7703d6342b89a31425c7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_3fb0995aef34c7fd267f7febeb3ba99126ef6621/classes.dex
+base.1=/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_3fb0995aef34c7fd267f7febeb3ba99126ef6621
+file.0=/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_17a400667de7e6b392dc7703d6342b89a31425c7/classes.dex

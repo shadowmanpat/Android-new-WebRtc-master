@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/res/merged/legacy/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/sm/.android/build-cache/1a31d1e722c33ef11db4321cb4bf05f9a63c0f79/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/res/merged/legacy/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/sm/.android/build-cache/1a31d1e722c33ef11db4321cb4bf05f9a63c0f79/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

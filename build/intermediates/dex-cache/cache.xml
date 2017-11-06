@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/e7fda4f0659fd2de23ac851fbdefaafdb7fef05b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_5822a7364345e248e9d8f9f8b512ceaef8877162/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/reactive-streams-1.0.0_c0877f87dd08567865f4d1c5dfe3264a5c09e4b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/incremental-classes/legacy/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="195aafdef1f0e151e639ed5bad9c8dd437b5d57f">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run-bootstrap_17a400667de7e6b392dc7703d6342b89a31425c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/00c3e1a5b3076cb7dee03c5264fd426b0b3be841/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93b7d6ba3bb340e935bf7a36408eb3455264b759">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_1c15c7f0dcebf4f018e97b84eb34f510cca52530/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/4bb378cca354fc827e8c74da926c489000658fcc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_1575639b1b25809106864564167083c48338c7ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/incremental-runtime-classes/legacy/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10000/instant-run_3fb0995aef34c7fd267f7febeb3ba99126ef6621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.5/4f1ac7ec0215e8f87ac80269baadc82878b87ed8/rxjava-2.0.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/rxjava-2.0.5_53ce91e1f4525bbb05583b991d696634fe7e6f4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/1e1c1f9b9bad88b7c4c5f84e24e08d56972bcd41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_dc7955584f9c1da438182982f70730b96548a7e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/b77164defc6193728bd27ba85f100d5e94e39bc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_4bc0e48e33996b0f674254ff228d534661b216d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/1a31d1e722c33ef11db4321cb4bf05f9a63c0f79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_8f0bf5866299358d92449e275534eaba080b780a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/83eb8ac4404a67d18a54253c78df02b8edb0ac8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_a4e588bb6fee34ab40ead4ddaea9e5e413fac3c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/opt/android-studio/gradle/m2repository/com/android/databinding/baseLibrary/2.3.0/baseLibrary-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf0b6ab1d94f770655f81657b93fce2ba4cd331d">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/baseLibrary-2.3.0_848d4511cc2d80f9d727a3895c1f815c23ff3ed3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.6/3562c66f648480d3bd4f76cff722488ced13445b/kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/kotlin-runtime-1.0.6_06fff0b4068028f19446de05ff444b076b8c3a5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/6ca024a5f0cbf74b069ff45cfa3ee8ff91cfb134/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_1c51a00cf1877277400c41ec9b19b5e7b9319105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/libs/base_java.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07ea55a0c903b722b31d05feb833fd88c4c37d0">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/base_java_21b64600a1466c4faa27b23cf46570dad8f0fe41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/c410813bf0c57b56776e24ef2223229594d372cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_be76195ea7345b227348cd6349e4fd45fdc5525f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/libs/libjingle_peerconnection.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="187a888b7cfb6f9678d8cca0aeb56a94a031733a">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/libjingle_peerconnection_66e04ebe3da1e3dd3052e132547daf218baea3f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/support-annotations-25.2.0_b674aadfa94c3cbe59e1b3b241a3b11e7227c8c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/5540f690560a8d139c940c16dd12401c33f53cff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_1fb77b65d712f463fb64ac9a77224f43036261d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/1f4c5e6ed2319249af430e329f4a5c064810c028/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_60e43c327be6a5b85cdc9d3fdd9af25ce9041930/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/b1253ec0789c73a9b74438f961060111ff030423/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_7f8654caa147b84005454b9e1a98e44c9924f5f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.6/d19acb6ed49b9c48228c0e5dff8071fce23be4b8/kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/kotlin-stdlib-1.0.6_8a1cfa9dfcd0a69b1c80077cd43bb3a4ab90fed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/.android/build-cache/60680d7ec0206e91d0a48df0205c56fa49059719/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/10/classes_d3d49b2c40649504edb2df916a96f7c392c78fc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/libs/autobanh.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="/home/sm/Documents/Android Testing/Android-new-WebRtc-master/app/build/intermediates/transforms/dex/legacy/debug/folders/1000/2/autobanh_f8fa1789f2ff98a21eca51547bebed5fc4fda323/classes.dex" />
+    </item>
+
+</items>
